@@ -1,4 +1,4 @@
-# Shannon-Fano-Coding
+# Shannon-Fano Coding
 
 In the field of data compression, Shannon–Fano coding, named after Claude Shannon and Robert Fano, is a name given to two different but related techniques for constructing a prefix code based on a set of symbols and their probabilities (estimated or measured).
 
